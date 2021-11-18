@@ -1,0 +1,16 @@
+-STARTER
+Error en la funcionalidad a la hora de borrar en la lista. Por alguna razon el remove de la lista pasandole el objeto no me funciona.
+
+- Server
+
+Intento de rellenar una lista de clientes por pais pasado en las properties basado en el starter. Ademas por x razones no me detecta la propiedad
+en el properties del pais por tanto siempre se me crea con el pais por defecto (UNKNOW)
+
+He rellenado la lista y queria usarla esa para hacerle las propiedades CRUD pero me encontré con que a la hora de borrar, o añadir necesitaba un 
+Collector. No podía introducir la entidad de por sí y nunca lo hacía.
+
+El nombre de la aplicacion en el registro del cliente que lo está usando no me funciona en properties después de estar más o menos 15 min buscando
+
+-Cliente Rest
+Perdí demasiado tiempo en usar el RestTemplate al añadirle headers porque no me acordaba y no encontraba el correcto para los métodos put y delete
+hasta que por fín lo encontre

@@ -14,3 +14,6 @@ El nombre de la aplicacion en el registro del cliente que lo está usando no me 
 -Cliente Rest
 Perdí demasiado tiempo en usar el RestTemplate al añadirle headers porque no me acordaba y no encontraba el correcto para los métodos put y delete
 hasta que por fín lo encontre
+
+-Excepciones
+No he incluido por tiempo el config cloud y porque sigo sin ver claro donde meterlo con mi planteamiento de proyecto. Tampoco el micrometer
